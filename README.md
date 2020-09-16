@@ -1,2 +1,2 @@
 # homebrew-brews
-Tap repo for me available Homebrew formulae
+Tap repo for my available Homebrew formulae
